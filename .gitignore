@@ -33,3 +33,6 @@ ENV/
 
 # Misc
 .DS_Store
+
+# Mypy
+.mypy_cache/
